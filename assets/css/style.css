@@ -537,4 +537,10 @@ header {
   .test-counducted:active {
     background-color: #ff0100e6;
     color: white; }
+
+    @media only screen and (max-width: 600px) {
+      .carousel-item{
+        height: 330px;
+      }
+    }  
 /*# sourceMappingURL=style.css.map */
